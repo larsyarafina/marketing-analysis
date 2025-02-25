@@ -1,8 +1,8 @@
 # 🚀 Analyzing Human Resources Data into Dashboard
 
-**Visualization Tool**: [Tableau]([https://public.tableau.com/app/profile/larasati.syarafina/viz/MarketingAnalysisDashboard_17395119448950/Dashboard1?publish=yes])
+**Visualization Tool**: [Tableau](https://public.tableau.com/app/profile/larasati.syarafina/viz/MarketingAnalysisDashboard_17395119448950/Dashboard1?publish=yes)
 
-**Dataset**: [Pacmann - Human Resource Data]([https://](https://github.com/larsyarafina/marketing-analysis/blob/main/Dataset%20study%20case%20dataviz%20digimarketing.xlsx))
+**Dataset**: [Pacmann - Human Resource Data](https://github.com/larsyarafina/marketing-analysis/blob/main/Dataset%20study%20case%20dataviz%20digimarketing.xlsx)
 
 ## 📌 Dataset
 * Data yang digunakan adalah data campaign marketing yang dijalankan perusahaan dari bulan Januari hingga April.
